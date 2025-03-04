@@ -7,7 +7,7 @@ def main():
     Main function to demonstrate how to use the excel_to_dataframe function
     """
     # Set the path to the Excel file
-    file_path = os.path.join("dispathers", "Doklad_Dispecheri_2024.xlsx")
+    file_path = os.path.join("xls_data", "Doklad_Dispecheri_2024.xlsx")
     
     # Process the Excel file
     print(f"Processing Excel file: {file_path}")
